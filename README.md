@@ -13,7 +13,7 @@
 # 식단 추가 기여하기 🥰
 
 1. 식당 앞에 있는 식단표를 확인합니다.
-2. `src/data` 디렉토리 내에 `YYYY-MM-DD.md` 형태로 파일을 생성하고 메뉴를 적어주신후 `PR` 날려주시면 됩니다.
+2. `src/data` 디렉토리 내에 `YYYY-MM-DD.md` 형태로 파일을 생성하고 메뉴를 적어주신후 `PR` 날려주시면 됩니다. [예시보기](https://github.com/techinpark/pangyo-smilecook/pull/1)
 
 - 기여하신 분들에게는 하단에 컨트리뷰터로 등록 해드리려고 합니다 🎈
 
