@@ -1,6 +1,6 @@
 ![](./.github/images/header.png)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # pangyo-smilecook ![node.js CI](https://github.com/techinpark/pangyo-smilecook/workflows/node.js%20CI/badge.svg?branch=master) ![techinpark/pangyo-smilecook license](https://img.shields.io/github/license/techinpark/pangyo-smilecook?color=blue) ![stars](https://img.shields.io/github/stars/techinpark/pangyo-smilecook?color=yellow&style=social)
 
@@ -39,6 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://fernando.kr"><img src="https://avatars3.githubusercontent.com/u/45546296?v=4" width="100px;" alt=""/><br /><sub><b>Fernando</b></sub></a><br /><a href="https://github.com/techinpark/pangyo-smilecook/commits?author=techinpark" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://heavybros.dothome.co.kr/"><img src="https://avatars2.githubusercontent.com/u/29536880?v=4" width="100px;" alt=""/><br /><sub><b>Haenala Shin</b></sub></a><br /><a href="https://github.com/techinpark/pangyo-smilecook/commits?author=HaenaraShin" title="Documentation">📖</a></td>
   </tr>
 </table>
 
