@@ -3,7 +3,7 @@ name: node.js CI
 on:
   schedule:
     # 매일 아침 11시에 슬랙 알람 발송
-    - cron: '*/10 * * * *'
+    - cron: "*/10 * * * *"
 
 jobs:
   build:
