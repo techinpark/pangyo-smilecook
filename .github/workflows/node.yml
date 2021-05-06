@@ -2,8 +2,9 @@ name: node.js CI
 
 on:
   schedule:
-    # 매일 아침 11시에 슬랙 알람 발송
-    - cron: "*/10 * * * *"
+    # 매일 아침 9시 30분에 슬랙 알람 발송
+    # 시간은 UTC 임
+    - cron: "30 0 * * 1-5"
 
 jobs:
   build:
