@@ -13,20 +13,20 @@ export default async({data, url}: slackArgs) => {
     
     if (data == "404") {
         message.attachments.push({
-            pretext: '식단표가 없습니다. 식단표 `PR` 날려주세요 😢',
+            pretext: '식단표가 없습니다. 식단표 `등록` 해주세요 😢',
             color: "#2eb886",
             fields: [
                 {
                     type:'mrkdwn',
-                    title: '스마일쿡 Github Repository 📦',
-                    value: "https://github.com/techinpark/pangyo-smilecook",
+                    title: 'wmit-cook Github Repository 📦',
+                    value: "https://github.com/ktj1312/wmit-cook",
                 }, 
             ],
-            footer: 'Github - pangyo-smilecook'
+            footer: 'Github - wmit-cook'
         })
     } else {
         message.attachments.push({
-            pretext: '오늘의 한식뷔페 메뉴입니다.',
+            pretext: '오늘의 메뉴입니다.',
             color: "#2eb886",
             fields: [
                 {
@@ -35,7 +35,7 @@ export default async({data, url}: slackArgs) => {
                     value: data,
                 }, 
             ],
-            footer: 'Github - pangyo-smilecook'
+            footer: 'Github - wmit-cook'
         })
     }
 
