@@ -1,6 +1,9 @@
 name: node.js CI
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     # 매일 아침 11시에 슬랙 알람 발송
     - cron: '*/5 * * * *'
