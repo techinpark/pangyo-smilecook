@@ -4,7 +4,7 @@ on:
   schedule:
     # 매일 아침 9시 30분에 슬랙 알람 발송
     # 시간은 UTC 임
-    - cron: "30 0 * * 1-5"
+    - cron: "30 22 * * 1-5"
 
 jobs:
   build:
